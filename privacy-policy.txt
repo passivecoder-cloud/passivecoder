@@ -1,0 +1,59 @@
+﻿Privacy Policy for Home Loan Companion: EMI & Prepay
+Last Updated: June 16, 2026
+1. Introduction
+Welcome to Home Loan Companion: EMI & Prepay (referred to as "the App", "we", "us", or "our"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+As an offline-first financial calculator utility, our absolute priority is to ensure your financial computations, prepayment schedules, and amortization history remain completely private, secure, and under your absolute control.
+________________
+
+
+2. Information We Collect
+We are proud to operate a minimal-data and offline-first application.
+A. Personal Data
+* No Direct Collection: We do not collect or store personal identifying information (PII) such as your name, billing address, home address, phone number, or government identifiers.
+* No Account Registration: The App does not require you to create an account, register, or sign in to perform any home loan calculations, comparison tools, or prepayment simulations.
+B. Financial Data
+* Local Storage Only: Any financial values, loan amounts, interest rates, loan tenures, or prepayment details you enter into the App are processed entirely on your physical device.
+* History & Amortization Data: If you save a loan simulation or amortization history, this data is saved strictly using the App's local database storage on your device. We have no external server access to your calculated EMI results, total unpaid balances, or prepayment steps.
+________________
+
+
+3. Device Permissions (If Applicable)
+Depending on your usage of certain companion features, the App may require standard Android permissions:
+* Storage / Media Access: To export loan summaries, comparison sheets, or amortization tables as PDF or CSV sheets directly to your local file manager. No personal photos, media, or other unrelated local storage folders are read or modified.
+* Network Access: Used strictly for server-side calculations or optional premium AI-assisted home-loan tips (if utilizing integrated companion assistants). Calculations themselves do not transmit your local details to any external hosting partner.
+________________
+
+
+4. Use of Your Information
+In the event that any local diagnostics, crash reports, or generic analytics details are generated:
+* We use them solely to improve App stability, debug runtime system errors, and enhance the calculation engines.
+* We never sell, rent, license, or disclose your inputs or EMI configurations to third-party advertisers, lenders, brokers, or marketing networks.
+________________
+
+
+5. Third-Party Services
+Our App may use standard mobile SDK components (such as Google Play Services) for core app functions, including rendering internal system components, updates, or optional diagnostics. These third parties handle your data under their respective privacy rules.
+________________
+
+
+6. Financial Disclaimer
+Home Loan Companion: EMI & Prepay is a mathematical calculation tool and simulator designed for educational and informational planning purposes.
+* We are not a bank, financial lender, broker, or registered investment advisor.
+* The App does not issue loans, intermediate credit, or make loan lending decisions.
+* Always check with a licensed mortgage broker or your financial institution before making real-world home loan decisions or paying prepayments.
+________________
+
+
+7. Children's Privacy
+Our services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal info, please contact us so that we can take necessary actions.
+________________
+
+
+8. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top of this document. You are advised to review this Privacy Policy periodically for any changes.
+________________
+
+
+9. Contact Us
+If you have any questions, suggestions, or concerns regarding your privacy or this policy, please contact us at:
+* Email: ashish.v2717@gmail.com
